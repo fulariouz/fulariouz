@@ -1,162 +1,162 @@
 {
-  "request":[
+  "partsRequest":[
+    
+    {
+      "pname":"RJ-6 Outdoor",
+      "pproperty": "",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
+    }
+    {
+      "pname":"RJ-6 Indoor",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
 
-    {
-      "p.name":"RJ-6 Outdoor",
-      "p.property": "",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
     }
     {
-      "p.name":"RJ-6 Indoor",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
-
+      "pname":"RJ-11",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-11",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
+      "pname":"RJ-59 Outdoor",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-59 Outdoor",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
+      "pname":"RJ-59 Indoor",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-59 Indoor",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
+      "pname":"Moca Ground",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Moca Ground",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
+      "pname":"Moca",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Moca",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
+      "pname":"Barrels",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Barrels",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
+      "pname":"Terminators",
+      "pcategory:" : "Fittings/Filters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Terminators",
-      "p.category:" : "Fittings/Filters"
-      "p.imageURL": "",
+      "pname":"RJ-6 undgrnd",
+      "pcategory:" : "Cables/Wires"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-6 undgrnd",
-      "p.category:" : "Cables/Wires"
-      "p.imageURL": "",
+      "pname":"RJ-6 indoor",
+      "pcategory:" : "Cables/Wires"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-6 indoor",
-      "p.category:" : "Cables/Wires"
-      "p.imageURL": "",
+      "pname":"RJ-6 aerial",
+      "pcategory:" : "Cables/Wires"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-6 aerial",
-      "p.category:" : "Cables/Wires"
-      "p.imageURL": "",
+      "pname":"RJ-11 undgrnd",
+      "pcategory:" : "Cables/Wires"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-11 undgrnd",
-      "p.category:" : "Cables/Wires"
-      "p.imageURL": "",
+      "pname":"RJ-11 aerial",
+      "pcategory:" : "Cables/Wires"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RJ-11 aerial",
-      "p.category:" : "Cables/Wires"
-      "p.imageURL": "",
+      "pname":"2-Way",
+      "pcategory:" : "Splitters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"2-Way",
-      "p.category:" : "Splitters"
-      "p.imageURL": "",
+      "pname":"3-Way",
+      "pcategory:" : "Splitters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"3-Way",
-      "p.category:" : "Splitters"
-      "p.imageURL": "",
+      "pname":"4-Way",
+      "pcategory:" : "Splitters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"4-Way",
-      "p.category:" : "Splitters"
-      "p.imageURL": "",
+      "pname":"Moca Splitter",
+      "pcategory:" : "Splitters"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Moca Splitter",
-      "p.category:" : "Splitters"
-      "p.imageURL": "",
+      "pname":"Bug Repellent",
+      "pcategory:" : "Misc"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Bug Repellent",
-      "p.category:" : "Misc"
-      "p.imageURL": "",
+      "pname":"Wasp Spray",
+      "pcategory:" : "Misc"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Wasp Spray",
-      "p.category:" : "Misc"
-      "p.imageURL": "",
+      "pname":"Boot covers",
+      "pcategory:" : "Misc"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Boot covers",
-      "p.category:" : "Misc"
-      "p.imageURL": "",
+      "pname":"Flags",
+      "pcategory:" : "Misc"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Flags",
-      "p.category:" : "Misc"
-      "p.imageURL": "",
+      "pname":"Silicone",
+      "pcategory:" : "Misc"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Silicone",
-      "p.category:" : "Misc"
-      "p.imageURL": "",
+      "pname":"Anchor Kit",
+      "pcategory:" : "Misc"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Anchor Kit",
-      "p.category:" : "Misc"
-      "p.imageURL": "",
+      "pname":"Wall Plates",
+      "pcategory:" : "Misc"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Wall Plates",
-      "p.category:" : "Misc"
-      "p.imageURL": "",
+      "pname":"RG-11 Clips",
+      "pcategory:" : "Clips/Ties"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RG-11 Clips",
-      "p.category:" : "Clips/Ties"
-      "p.imageURL": "",
+      "pname":"RG-6 black",
+      "pcategory:" : "Clips/Ties"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RG-6 black",
-      "p.category:" : "Clips/Ties"
-      "p.imageURL": "",
+      "pname":"RG-6 white",
+      "pcategory:" : "Clips/Ties"
+      "pimageUrl": "",
     }
     {
-      "p.name":"RG-6 white",
-      "p.category:" : "Clips/Ties"
-      "p.imageURL": "",
+      "pname":"Zip Ties black",
+      "pcategory:" : "Clips/Ties"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Zip Ties black",
-      "p.category:" : "Clips/Ties"
-      "p.imageURL": "",
+      "pname":"Zip Ties white",
+      "pcategory:" : "Clips/Ties"
+      "pimageUrl": "",
     }
     {
-      "p.name":"Zip Ties white",
-      "p.category:" : "Clips/Ties"
-      "p.imageURL": "",
-    }
-    {
-      "p.name":"U-Guard Gray",
-      "p.category:" : "Clips/Ties"
-      "p.imageURL": "",
+      "pname":"U-Guard Gray",
+      "pcategory:" : "Clips/Ties"
+      "pimageUrl": "",
     }
   ]
 }
