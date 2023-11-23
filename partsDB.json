@@ -1,6 +1,4 @@
-{
-  "partsRequest":[
-    
+[    
     {
       "pname":"RJ-6 Outdoor",
       "pproperty": "",
@@ -158,5 +156,5 @@
       "pcategory:" : "Clips/Ties"
       "pimageUrl": "",
     }
-  ]
-}
+]
+
