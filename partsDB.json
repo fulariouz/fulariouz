@@ -1,9 +1,9 @@
 [    
     {
-      "pname":"RJ-6 Outdoor",
-      "pproperty": "",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "name":"RJ-6 Outdoor",
+      "property": "",
+      "category:" : "Fittings/Filters"
+      "imageUrl": "",
     }
     {
       "pname":"RJ-6 Indoor",
