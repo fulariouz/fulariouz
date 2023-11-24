@@ -1,7 +1,6 @@
 [    
     {
       "name":"RJ-6 Outdoor",
-      "property": "",
       "category:" : "Fittings/Filters",
       "imageUrl": ""
     }
@@ -18,143 +17,143 @@
     }
     {
       "pname":"RJ-59 Outdoor",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "pcategory:" : "Fittings/Filters",
+      "pimageUrl": ""
     }
     {
       "pname":"RJ-59 Indoor",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "pcategory:" : "Fittings/Filters",
+      "pimageUrl": ""
     }
     {
       "pname":"Moca Ground",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "pcategory:" : "Fittings/Filters",
+      "pimageUrl": ""
     }
     {
       "pname":"Moca",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "pcategory:" : "Fittings/Filters",
+      "pimageUrl": ""
     }
     {
       "pname":"Barrels",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "pcategory:" : "Fittings/Filters",
+      "pimageUrl": ""
     }
     {
       "pname":"Terminators",
-      "pcategory:" : "Fittings/Filters"
+      "pcategory:" : "Fittings/Filters",
       "pimageUrl": "",
     }
     {
       "pname":"RJ-6 undgrnd",
-      "pcategory:" : "Cables/Wires"
-      "pimageUrl": "",
+      "pcategory:" : "Cables/Wires",
+      "pimageUrl": ""
     }
     {
       "pname":"RJ-6 indoor",
-      "pcategory:" : "Cables/Wires"
-      "pimageUrl": "",
+      "pcategory:" : "Cables/Wires",
+      "pimageUrl": ""
     }
     {
       "pname":"RJ-6 aerial",
-      "pcategory:" : "Cables/Wires"
-      "pimageUrl": "",
+      "pcategory:" : "Cables/Wires",
+      "pimageUrl": ""
     }
     {
       "pname":"RJ-11 undgrnd",
-      "pcategory:" : "Cables/Wires"
-      "pimageUrl": "",
+      "pcategory:" : "Cables/Wires",
+      "pimageUrl": ""
     }
     {
       "pname":"RJ-11 aerial",
-      "pcategory:" : "Cables/Wires"
-      "pimageUrl": "",
+      "pcategory:" : "Cables/Wires",
+      "pimageUrl": ""
     }
     {
       "pname":"2-Way",
-      "pcategory:" : "Splitters"
-      "pimageUrl": "",
+      "pcategory:" : "Splitters",
+      "pimageUrl": ""
     }
     {
       "pname":"3-Way",
-      "pcategory:" : "Splitters"
-      "pimageUrl": "",
+      "pcategory:" : "Splitters",
+      "pimageUrl": ""
     }
     {
       "pname":"4-Way",
-      "pcategory:" : "Splitters"
-      "pimageUrl": "",
+      "pcategory:" : "Splitters",
+      "pimageUrl": ""
     }
     {
       "pname":"Moca Splitter",
-      "pcategory:" : "Splitters"
-      "pimageUrl": "",
+      "pcategory:" : "Splitters",
+      "pimageUrl": ""
     }
     {
       "pname":"Bug Repellent",
-      "pcategory:" : "Misc"
-      "pimageUrl": "",
+      "pcategory:" : "Misc",
+      "pimageUrl": ""
     }
     {
       "pname":"Wasp Spray",
-      "pcategory:" : "Misc"
-      "pimageUrl": "",
+      "pcategory:" : "Misc",
+      "pimageUrl": ""
     }
     {
       "pname":"Boot covers",
-      "pcategory:" : "Misc"
-      "pimageUrl": "",
+      "pcategory:" : "Misc",
+      "pimageUrl": ""
     }
     {
       "pname":"Flags",
-      "pcategory:" : "Misc"
-      "pimageUrl": "",
+      "pcategory:" : "Misc",
+      "pimageUrl": ""
     }
     {
       "pname":"Silicone",
-      "pcategory:" : "Misc"
-      "pimageUrl": "",
+      "pcategory:" : "Misc",
+      "pimageUrl": ""
     }
     {
       "pname":"Anchor Kit",
-      "pcategory:" : "Misc"
-      "pimageUrl": "",
+      "pcategory:" : "Misc",
+      "pimageUrl": ""
     }
     {
       "pname":"Wall Plates",
-      "pcategory:" : "Misc"
-      "pimageUrl": "",
+      "pcategory:" : "Misc",
+      "pimageUrl": ""
     }
     {
       "pname":"RG-11 Clips",
-      "pcategory:" : "Clips/Ties"
-      "pimageUrl": "",
+      "pcategory:" : "Clips/Ties",
+      "pimageUrl": ""
     }
     {
       "pname":"RG-6 black",
-      "pcategory:" : "Clips/Ties"
-      "pimageUrl": "",
+      "pcategory:" : "Clips/Ties",
+      "pimageUrl": ""
     }
     {
       "pname":"RG-6 white",
-      "pcategory:" : "Clips/Ties"
-      "pimageUrl": "",
+      "pcategory:" : "Clips/Ties",
+      "pimageUrl": ""
     }
     {
       "pname":"Zip Ties black",
-      "pcategory:" : "Clips/Ties"
-      "pimageUrl": "",
+      "pcategory:" : "Clips/Ties",
+      "pimageUrl": ""
     }
     {
       "pname":"Zip Ties white",
-      "pcategory:" : "Clips/Ties"
-      "pimageUrl": "",
+      "pcategory:" : "Clips/Ties",
+      "pimageUrl": ""
     }
     {
       "pname":"U-Guard Gray",
-      "pcategory:" : "Clips/Ties"
-      "pimageUrl": "",
+      "pcategory:" : "Clips/Ties",
+      "pimageUrl": ""
     }
 ]
 
