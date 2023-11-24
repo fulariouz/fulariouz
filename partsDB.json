@@ -2,19 +2,19 @@
     {
       "name":"RJ-6 Outdoor",
       "property": "",
-      "category:" : "Fittings/Filters"
-      "imageUrl": "",
+      "category:" : "Fittings/Filters",
+      "imageUrl": ""
     }
     {
       "pname":"RJ-6 Indoor",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "pcategory:" : "Fittings/Filters",
+      "pimageUrl": ""
 
     }
     {
       "pname":"RJ-11",
-      "pcategory:" : "Fittings/Filters"
-      "pimageUrl": "",
+      "pcategory:" : "Fittings/Filters",
+      "pimageUrl": ""
     }
     {
       "pname":"RJ-59 Outdoor",
